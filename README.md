@@ -9,7 +9,7 @@ In addition, I highly value user experience and have actively contributed to UI/
 ### SKILLS
 
 Technologies: 
-React Native, React, TypeScript, JavaScript, Kotlin, Java, Node.js, Express, Spring Boot, REST, GraphQL, SQL, SQLite, Azure, Docker, Git, GitHub Actions, GitHub Copilot, Android Studio, Figma
+React Native, React, JavaScript, TypeScript, Java, Kotlin, Node.js, Express, Spring Boot, REST, GraphQL, SQL, SQLite, Azure, Docker, Git, GitHub Actions, GitHub Copilot, Android Studio, Figma
 
 Languages: 
 Finnish - excellent (C2), English - excellent (C2), Swedish - intermediate (B1)
@@ -22,7 +22,7 @@ Finnish - excellent (C2), English - excellent (C2), Swedish - intermediate (B1)
 * Developed an application that reduced quality control process time by 44.8% and increased data coverage while improving accessibility
 
 Technologies: 
-React Native, JavaScript, Kotlin, Java, SQL, SQLite, REST, Git, GitHub Copilot, Android Studio, Figma
+React Native, JavaScript, TypeScript, Java, Kotlin, SQL, SQLite, REST, Git, GitHub Copilot, Android Studio, Figma
 
 ### EDUCATION
 
