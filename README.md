@@ -2,7 +2,7 @@
 
 ### ABOUT ME
 
-Android developer with 3 years of commercial experience working in teams on both client facing and internal projects in a consulting environment. Took responsibility for the full development cycle, from making architectural decisions to production releases and ongoing maintenance. Actively worked on modularizing applications and developing React Native libraries to speed up and optimize development processes.
+Mobile developer with 3 years of commercial experience working in teams on both client facing and internal projects in a consulting environment. Took responsibility for the full development cycle, from making architectural decisions to production releases and ongoing maintenance. Actively worked on modularizing applications and developing React Native libraries to speed up and optimize development processes.
 
 In addition, I highly value user experience and have actively contributed to UI/UX solutions. I also have experience mentoring trainees to smooth the onboarding process and have met with clients to ensure that their vision continuously aligns with the delivered product.
 
